@@ -1,3 +1,3 @@
-# Plane-Combat
+# Games
 
-It's a plane combat game written in C!
+some small games written by me.
